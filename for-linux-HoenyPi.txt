@@ -1,0 +1,6 @@
+Copy and paste the following line of code into the Terminal for direct installation.
+
+sudo /bin/sh -c "$(curl -fsSL https://static.palera.in/scripts/install.sh)
+
+
+Downloading via our script will make sure you always download the latest version of palera1n is installed to your computer, if you're wary that you're outdated or are told to update you can re-run this script.
